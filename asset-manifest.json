@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cryptoBuzz/static/js/main.95c98c6a.js",
+    "static/media/cryptoImg.png": "/cryptoBuzz/static/media/cryptoImg.04101b0b163c035fa57e.png",
+    "index.html": "/cryptoBuzz/index.html",
+    "main.95c98c6a.js.map": "/cryptoBuzz/static/js/main.95c98c6a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95c98c6a.js"
+  ]
+}
